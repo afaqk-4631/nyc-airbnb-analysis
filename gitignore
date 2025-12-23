@@ -1,0 +1,42 @@
+# Jupyter Notebook
+.ipynb_checkpoints/
+*/.ipynb_checkpoints/*
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+
+# Data files - ALWAYS EXCLUDE (files too large for GitHub)
+*.csv
+*.csv.gz
+*.zip
+*.xlsx
+*.json
+*.parquet
+*.feather
+NYC_*.csv
+NYC_*.csv.gz
+*_data.csv
+*_dataset.csv
+
+# OS files
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# IDE
+.vscode/
+.idea/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*.tmp
+*.log

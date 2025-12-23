@@ -14,7 +14,7 @@
 
 This project analyzes 87,050 Airbnb listings across New York City's five boroughs over four quarterly snapshots in 2025, examining how seasonal demand impacts pricing dynamics.
 
-**Central Finding:** NYC operates as a **two-tier market**: Manhattan functions like hotels with dynamic seasonal pricing (+34%), while outer boroughs operate like apartments with stable rents (±4%).
+**Central Finding:** NYC operates as a **two-tier market**—Manhattan functions like hotels with dynamic seasonal pricing (+34%), while outer boroughs operate like apartments with stable rents (±4%).
 
 ---
 
@@ -47,7 +47,7 @@ nyc-airbnb-analysis/
 
 ## 🎯 View the Analysis
 
-**→ [Interactive HTML Report](https://afaqk-4631.github.io/nyc-airbnb-analysis/afaqk_Final_Project_90-800_html.html)** *(Update this link after setup)*
+**→ [Interactive HTML Report](https://yourusername.github.io/nyc-airbnb-analysis/afaqk_Final_Project_90-800_html.html)** *(Update this link after setup)*
 
 **→ [Jupyter Notebook](afaqk_Final_Project_90-800.ipynb)**
 
@@ -88,6 +88,16 @@ The analysis includes 18 distinct visualizations:
 - **Listings:** 87,050 after cleaning (from 147,387 raw)
 - **Boroughs:** Manhattan, Brooklyn, Queens, Bronx, Staten Island
 - **Variables:** 78 columns including price, location, reviews, host info, availability
+
+### Data Availability
+
+**Original Data Sources:**
+- [NYC - January 3, 2025](http://insideairbnb.com/get-the-data/)
+- [NYC - April 1, 2025](http://insideairbnb.com/get-the-data/)
+- [NYC - July 1, 2025](http://insideairbnb.com/get-the-data/)
+- [NYC - October 1, 2025](http://insideairbnb.com/get-the-data/)
+
+**Note:** Raw datasets (~18MB each) are not included in this repository to maintain manageable repo size. All data is publicly available from Inside Airbnb. The analysis notebook contains all cleaning and transformation code to reproduce results from the original sources.
 
 ### Data Cleaning
 - Removed 59,637 rows with missing prices (inactive listings)
@@ -185,8 +195,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Carnegie Mellon University | Heinz College  
 MSPPM-DA Candidate (AI Management Concentration)
 
-- LinkedIn: [https://www.linkedin.com/in/afaqmkhan/]
-- Email: [afaqk@andrew.cmu.edu]
+- LinkedIn: [Add your LinkedIn]
+- Email: [Add your email]
+- Portfolio: [Add your portfolio if applicable]
 
 ---
 
