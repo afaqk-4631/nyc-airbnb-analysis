@@ -14,7 +14,7 @@
 
 This project analyzes 87,050 Airbnb listings across New York City's five boroughs over four quarterly snapshots in 2025, examining how seasonal demand impacts pricing dynamics.
 
-**Central Finding:** NYC operates as a **two-tier market**—Manhattan functions like hotels with dynamic seasonal pricing (+34%), while outer boroughs operate like apartments with stable rents (±4%).
+**Central Finding:** NYC operates as a **two-tier market**:Manhattan functions like hotels with dynamic seasonal pricing (+34%), while outer boroughs operate like apartments with stable rents (±4%).
 
 ---
 
