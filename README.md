@@ -47,7 +47,7 @@ nyc-airbnb-analysis/
 
 ## 🎯 View the Analysis
 
-**→ [Interactive HTML Report](https://afaqk-4631.github.io/nyc-airbnb-analysis/afaqk_Final_Project_90-800_html.html)** *(Update this link after setup)*
+**→ [Interactive HTML Report](https://afaqk-4631.github.io/nyc-airbnb-analysis/afaqk_Final_Project_90-800_html.html)**
 
 **→ [Jupyter Notebook](afaqk_Final_Project_90-800.ipynb)**
 
