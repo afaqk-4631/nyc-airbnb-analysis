@@ -47,7 +47,7 @@ nyc-airbnb-analysis/
 
 ## 🎯 View the Analysis
 
-**→ [Interactive HTML Report](https://yourusername.github.io/nyc-airbnb-analysis/afaqk_Final_Project_90-800_html.html)** *(Update this link after setup)*
+**→ [Interactive HTML Report](https://afaqk-4631.github.io/nyc-airbnb-analysis/afaqk_Final_Project_90-800_html.html)** *(Update this link after setup)*
 
 **→ [Jupyter Notebook](afaqk_Final_Project_90-800.ipynb)**
 
@@ -185,9 +185,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 Carnegie Mellon University | Heinz College  
 MSPPM-DA Candidate (AI Management Concentration)
 
-- LinkedIn: [Add your LinkedIn]
-- Email: [Add your email]
-- Portfolio: [Add your portfolio if applicable]
+- LinkedIn: [https://www.linkedin.com/in/afaqmkhan/]
+- Email: [afaqk@andrew.cmu.edu]
 
 ---
 
