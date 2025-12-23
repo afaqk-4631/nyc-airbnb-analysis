@@ -40,7 +40,6 @@ nyc-airbnb-analysis/
 ├── afaqk_Final_Project_90-800.ipynb      # Full Jupyter notebook with code
 ├── afaqk_Final_Project_90-800_html.html  # Interactive HTML version
 ├── requirements.txt                       # Python dependencies
-└── assets/                                # (Optional) Screenshots
 ```
 
 ---
